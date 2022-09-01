@@ -24,9 +24,13 @@ function myLoop() {
     } else {
     array.push(i)
     pushArray()
-    /* console.log(i) */
+
 }
-}
+} 
+
+
+
+
 
 
 //smarter solution
